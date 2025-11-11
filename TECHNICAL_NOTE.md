@@ -2,7 +2,6 @@
 
 **Submitted by:** Srinath Reddy Chitteti  
 **Challenge:** Riverwood AI Voice Agent Internship Challenge  
-**Date:** [Insert Date]
 
 ---
 
@@ -60,6 +59,7 @@
 - Deploy on Streamlit Cloud or Replit for public access.
 - Integrate Twilio for real phone-call support.
 - Add persistent memory storage using a database.
+
 
 
 
